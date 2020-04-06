@@ -73,7 +73,7 @@ At this stage, you'll want to review your prototype and feature list. Have you c
 
 Don't worry if you need to make adjustments. As the saying goes, no plan survives first contact with the enemy. It's extremely unlikely that you'll create a perfect project plan before you get into building the actual app. And as you start building and coding, you'll continue to make changes. Make sure to consider how each change affects the rest of your project plan—and take the time to go back and update the plan accordingly.
 
-
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Submit Work to RCslatkin@syr.edu🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 ## Build Your Project Plan
 Now that you have an app architecture, create a plan for how you'll build the app. Your project plan will serve as your guide each time you sit down and work on the app.
 
